@@ -2,7 +2,7 @@
 Simple React Webpack Babel Starter Kit
 
 
-This is a simple [React](https://facebook.github.io/react/), [Webpack](http://webpack.github.io/) and [Babel](https://babeljs.io/) application with nothing else in it.
+This is a simple [React](https://facebook.github.io/react/), [Webpack](http://webpack.github.io/) [Babel](https://babeljs.io/) and [ESLint](http://eslint.org/) application with nothing else in it.
 
 ### What's in it?
 
